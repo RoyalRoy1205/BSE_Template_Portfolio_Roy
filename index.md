@@ -41,17 +41,13 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-# First Milestone
+# First Milestone: Building the chassis of the robot and making it move how I want it to.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+There have been many obstacles during my experience with BlueStamp and this project. When I first started this project, I had no prior experience with Arduino (The coding software which uses a modified C++ language), wiring and using micro controllers, and integration of different mediums/chips to accomplish the same goal. The first step to this project was building the chassis of the robot. This was the simplest step. The second step for this milestone was completely wiring the motors to the H-bridges to a BreadBoard which finally connects to the Uno. I took the attaced wires from motors of the robot and connected them to the H-bridges, which acts as a port for all the wires, which receives power from the Arduino Uno chip through a BreadBoard. The BreadBoard also connects the motor wires to the input pins in the Arduino Uno chip. Once the wiring was completed, I made a program in Arduino to make the car move in different directions. To do this, you need to define the input pins as the motors they are attached through and command them to move clockwise or counter-clockwise by calling it either HIGH or LOW. The alternation of these callings can make the robot move forward, backward, left, or right. Lastly, the main challenges I ran into for this milestone were learning how to code in Arduino, understanding the concepts of wiring, and de-bugging my program and wiring. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
