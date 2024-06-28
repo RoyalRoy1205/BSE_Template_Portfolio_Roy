@@ -5,9 +5,7 @@ This was my first ever project where I had to work on a physical object as oppos
 |:--:|:--:|:--:|:--:|
 | Arush R | Wheeler Magnet Highschool | Mechanical/Electrical Engineering and Computer Science | Incoming Sophmore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
+![Photo].(Screenshot 2024-06-28 140257.jpg)
   
 # Final Milestone
 
