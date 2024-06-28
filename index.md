@@ -5,7 +5,7 @@ This was my first ever project where I had to work on a physical object as oppos
 |:--:|:--:|:--:|:--:|
 | Arush R | Wheeler Magnet Highschool | Mechanical/Electrical Engineering and Computer Science | Incoming Sophmore
 
-![Photo].(Screenshot 2024-06-28 140257.jpg)
+![Photo ofme].(Screenshot2024-06-28140257.jpg)
   
 # Final Milestone
 
