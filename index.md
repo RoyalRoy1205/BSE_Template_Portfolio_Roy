@@ -13,6 +13,8 @@ This was my first ever project where I had to work on a physical object as oppos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nJuSjTT954M?si=u-5CE_0qgcSo8rwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
 My final milestone was simply my modification to make the car move slightly slower. The way I did this was changing my code was digital, meaning it is only an OFF or ON system, meaning there was no way to control speed. The way I had to avoid this problem was converting my code from digital to analog, which, in short, would give me liberty to control the speed to my desire. Now the way the Uno would seperate the normal speed function and the slowed speed function is by how far I tilt. There is a range of tilt that activates the slower speed function. I had only worked on this for a couple days so I am very proud of my accomplishments during this milestone and during the whole camp.
 
 
@@ -20,6 +22,8 @@ My final milestone was simply my modification to make the car move slightly slow
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Y8c-mgPEeY?si=lUltfTGkIyUORAws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 My second milestone at BlueStamp was finishing the base project. I had to connect the bluetooth modules together so they could communicate to each other remotely to create the remote effect you see in the video. After the bluetooth modules were connected with each other, I made the sure the accelerometer was grasping the data correctly and sending it properly to from the bluetooth module to the other and being properly used by the Uno. The biggest issue I had during this time period was getting the Bluetooth modules to communicate with each other consistently and accurately. I spent more time on this milestone than preferred, so my modification was slightly smaller than wanted, but impactful in my opinion.
 
@@ -29,10 +33,9 @@ My second milestone at BlueStamp was finishing the base project. I had to connec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k1KhI1mOdOQ?si=B7LtHXkaXxVYLH_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My first Milestone was to finish building the chassis of the car, and make sure the car is able to move when code is pre-loaded on it. The car chassis was built, and a simple code was made in arduino, simply just telling the motors to move counter-clockwise or vise versa. Because this is my first ever project, there were many issues with wiring, and simple code issues. I have never used Arduino (the coding software), or wired such things before, so those were my main issue. The next mlestone will be workig towards getting base project done by implementing the use of the bluetooth modules and working the accelerometer.
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+
+My first Milestone was to finish building the chassis of the car, and make sure the car is able to move when code is pre-loaded on it. The car chassis was built, and a simple code was made in arduino, simply just telling the motors to move counter-clockwise or vise versa. Because this is my first ever project, there were many issues with wiring, and simple code issues. I have never used Arduino (the coding software), or wired such things before, so those were my main issue. The next mlestone will be workig towards getting base project done by implementing the use of the bluetooth modules and working the accelerometer.
 
 # Code for Uno:
 
