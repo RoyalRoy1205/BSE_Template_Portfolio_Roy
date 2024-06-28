@@ -253,7 +253,7 @@ void determineGesture()
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Car Chassis | Body/chassis of the car | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Car Chassis | Body/chassis of the car | $Price | <a href="https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNXBFQN/ref=sr_1_4?crid=348HVQ5PPSES0&dib=eyJ2IjoiMSJ9.VntL9cwD4xLY13joNQYKF1T6vUldYo_0gfQFa4z3cDJE_2TYCo8zJ29kWzzTXPnBc4qslFcgs7NW7jcXShI2SVhbzqKiad1oN0Iyk1IxNP_7fVnbg5bSgAUCAKKYk45h-DqqlJpMZcqmHEtbHKw3e0w9CC3IE3EVGE471oZpz2jQAeLv148cV-2_P9nX5_i1gG4Oj0Boc7kqkIm1ms4u3JIUn86dM6RpeViGCGGu0T6Wj0L5hog84gmyMPQ7V67d-nsKizgdsvNSlZPokZ6zLoI8Ksdp0pksiKRuPvq7-bs.sKXjpZLowxu9xTTevjf-ACK0fRUW70i6WNwB_1CbmJE&dib_tag=se&keywords=car%2Bchassis%2Bkit&qid=1719589624&sprefix=car%2Bchasis%2Caps%2C95&sr=8-4&th=1"> Link </a> |
 | Screwdriver Kit | Used to hold the chassis in place and keep it stable. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | H-bridges | The medium which connects the motors to the Uno. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Arduino Uno | Main processing chip on the car. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
@@ -263,11 +263,9 @@ void determineGesture()
 | Arduino Micro | Reads the accelerometer data and sends it to the bluetooth modules. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Micro USB cable | Power supply cable. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Accelerometers | Read the tilt you give. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| HC05s | Communicate with each other to | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Breadboard Power Supply | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| 9-volt batteries | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Velcro Tape | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Digital Multi-Meter | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| HC05s | Communicate with each other to help activate the code for the car.| $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 9-volt batteries | Provide power for the car remotely. | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Digital Multi-Meter | Used to check if wiring/power is flowing properly through.  | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
