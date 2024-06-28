@@ -11,37 +11,25 @@ This was my first ever project where I had to work on a physical object as oppos
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nJuSjTT954M?si=u-5CE_0qgcSo8rwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
+My final milestone was simply my modification to make the car move slightly slower. The way I did this was changing my code was digital, meaning it is only an OFF or ON system, meaning there was no way to control speed. The way I had to avoid this problem was converting my code from digital to analog, which, in short, would give me liberty to control the speed to my desire. Now the way the Uno would seperate the normal speed function and the slowed speed function is by how far I tilt. There is a range of tilt that activates the slower speed function. I had only worked on this for a couple days so I am very proud of my accomplishments during this milestone and during the whole camp.
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Y8c-mgPEeY?si=lUltfTGkIyUORAws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+My second milestone at BlueStamp was finishing the base project. I had to connect the bluetooth modules together so they could communicate to each other remotely to create the remote effect you see in the video. After the bluetooth modules were connected with each other, I made the sure the accelerometer was grasping the data correctly and sending it properly to from the bluetooth module to the other and being properly used by the Uno. The biggest issue I had during this time period was getting the Bluetooth modules to communicate with each other consistently and accurately. I spent more time on this milestone than preferred, so my modification was slightly smaller than wanted, but impactful in my opinion.
+
+
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1KhI1mOdOQ?si=B7LtHXkaXxVYLH_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+My first Milestone was to finish building the chassis of the car, and make sure the car is able to move when code is pre-loaded on it. The car chassis was built, and a simple code was made in arduino, simply just telling the motors to move counter-clockwise or vise versa. Because this is my first ever project, there were many issues with wiring, and simple code issues. I have never used Arduino (the coding software), or wired such things before, so those were my main issue. The next mlestone will be workig towards getting base project done by implementing the use of the bluetooth modules and working the accelerometer.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
